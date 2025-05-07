@@ -205,8 +205,4 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ---
 
-```
-
-Let me know if you'd like me to also create the `requirements.txt` file or help with pushing it to GitHub.
-```
 
