@@ -1,4 +1,3 @@
-# Udemy-Unlocked-Insights
 # 📘 Udemy-Course-Explorer
 ![Udemy](https://img.shields.io/badge/Platform-Udemy-blueviolet)
 ![Python](https://img.shields.io/badge/Python-3.10+-green)
