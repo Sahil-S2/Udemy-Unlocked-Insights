@@ -5,6 +5,8 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Last Update](https://img.shields.io/badge/Last_Update-May_2025-orange)
 
+![Udemy Wallpaper](Udemy_poster.jpg)
+
 ## 🎓 Welcome to the **Udemy Course Explorer** Project!
 
 This repository contains an end-to-end data analysis project focused on Udemy’s online courses. The project uses Python and Plotly to uncover key patterns in course pricing, ratings, popularity, and category trends to help learners and educators make informed decisions.
