@@ -127,6 +127,7 @@ All visualizations are interactive and built using **Plotly** for better user en
 - 🧮 Count Plot: Courses per Subject
 
 ---
+![Udemy Trends](Udemy_earning.png)
 
 ## Technologies Used
 
