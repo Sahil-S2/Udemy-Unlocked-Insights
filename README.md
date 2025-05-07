@@ -143,7 +143,7 @@ All visualizations are interactive and built using **Plotly** for better user en
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Udemy-Course-Explorer.git
+git clone [https://github.com/yourusername/Udemy-Course-Explorer.git](https://github.com/Sahil-S2/Udemy-Unlocked-Insights)
 cd Udemy-Course-Explorer
 ```
 
