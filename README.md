@@ -26,7 +26,7 @@ This repository contains an end-to-end data analysis project focused on Udemy’
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The objective of this project is to derive actionable insights from Udemy course listings by analyzing various features such as:
 
@@ -38,7 +38,7 @@ The objective of this project is to derive actionable insights from Udemy course
 
 ---
 
-## 🧾 Dataset Information
+## Dataset Information
 
 - **Platform**: Udemy
 - **Total Records**: ~3,000+ courses
@@ -57,7 +57,7 @@ The dataset was downloaded from [Kaggle]([https://www.kaggle.com/](https://www.k
 
 ---
 
-## 📊 Key Highlights
+## Key Highlights
 
 ### 1. **Course Distribution**
 
@@ -115,7 +115,7 @@ The dataset was downloaded from [Kaggle]([https://www.kaggle.com/](https://www.k
 
 ---
 
-## 📂 Visualizations
+## Visualizations
 
 All visualizations are interactive and built using **Plotly** for better user engagement:
 
@@ -128,7 +128,7 @@ All visualizations are interactive and built using **Plotly** for better user en
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.10+**
 - **Pandas** for data manipulation
@@ -138,7 +138,7 @@ All visualizations are interactive and built using **Plotly** for better user en
 
 ---
 
-## 🚀 Installation and Usage
+## Installation and Usage
 
 ### 1. Clone the Repository
 ```bash
@@ -164,7 +164,7 @@ jupyter notebook Udemy_Analysis.ipynb
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```
 Udemy-Course-Explorer/
@@ -184,7 +184,7 @@ Udemy-Course-Explorer/
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 * Integrate machine learning models for course success prediction
 * Add NLP analysis of course titles and descriptions
@@ -192,13 +192,13 @@ Udemy-Course-Explorer/
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 Contributions are welcome! Feel free to fork this repo and improve the visualizations, data insights, or add new features.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
